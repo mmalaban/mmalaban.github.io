@@ -1,0 +1,135 @@
+career-profile:
+    title: Career Profile
+    summary: Highly motivated professional with over 10 years of experience
+      in embedded software engineering and 12 years in the automotive industry.
+      Skilled in project management, leadership, team building, customer support,
+      communication, and customer relations. Able to thrive under pressure and meet
+      tight deadlines. Has developed strong skills in managing projects, leading
+      and motivating teams, providing excellent support to customers, effectively
+      communicating with stakeholders, and building positive relationships with clients.
+      Confident to take on new challenges and deliver high-quality results in a fast-paced environment.
+
+experiences:
+    title: Experiences
+    info:
+      - role: Senior Software Engineer
+        time: May 2022 - Present
+        company: IAV | Northville, MI
+        details: |
+          - Requirements generation for a range of projects, customers and products
+          - Software Architecture design for range of projects and customers
+          - Design, implement and test safety related embedded software
+          - Work closely with the customer to bring up and debug new hardware
+          - Support architecture design and development
+          - Develop software in an ASPICE compliant process
+          - Develop device drivers and middleware for interfaces like CAN, LIN, Ethernet, etc.
+          - Review software requirements with the customer (internal & external)
+          - Implement software functions based on requirements
+          - Participate in SW code reviews
+          - Create SW documentation
+          - Support validation test plan creation
+          - Execution of software validation test plans
+          - Review test case results
+          - Implement change based on test cases results and change requests
+          - Support planning and execution of engineering activities as directed by supervisor or senior team members
+          - Support customer meetings
+          - Support business and strategic company development opportunities
+          - Demonstrate a willingness to learn and build technical knowledge and ability
+          - Maintain ISO required documentation, project diary, open issues list, task management system (i.e. JIRA) for multiple projects
+      - role: Senior Software Engineer
+        time: Apr. 2017 - May 2022
+        company: BorgWarner | Auburn Hills, MI
+        details: |
+          - Global software integration lead for new BorgWarner product
+          - Created integration test strategy for software components developed at various technical sites
+          - Developed regression test for system
+          - Project involved use of AUTOSAR basic software and various drivers and application software components
+          - Re-architected the AUTOSAR diagnostic stack for a project that had tight deadline
+          - Lead the software cybersecurity team in development 
+          - Site administrator for software configuration management (Bitbucket) at BorgWarner
+          - Led training on Bitbucket usage for all of site employees
+          - Provided support for unique issues with Bitbucket
+          - Site lead for development of continuous integration/continuous delivery at Auburn Hills location
+          - Collaborating with other technical sites to design a global CI/CD deployment strategy
+      - role: Software Engineer II
+        time: Nov. 2015 - Apr. 2017
+        company: BorgWarner | Auburn Hills, MI
+        details: |
+          - Determined customer requirements for embedded software development
+          - Integrated software using AUTOSAR Basic Software with GM SUM for All Wheel Drive electronic control module
+          - Focused on CAN networks, UDS diagnostics, cyber-security, ECU power moding, and fault management
+          - Involved in ECU requirements engineering, software design, software testing, and software release
+          - Verified hardware design and schematics
+      - role: Project Engineer
+        time: Jun. 2012 - Nov. 2015
+        company: Vector N.A. | Novi, MI
+        details: |
+          - Determined customer requirements and performed embedded software CAN stack integration
+          - Managed overall project
+          - Troubleshooted software and other issues with customer's implementation and provided technical support for embedded software
+          - Met with customers regularly to establish positive, long-term relationships
+          - Worked with product developers and test engineers at OEMs and suppliers
+      - role: Infantryman
+        time: request DD-214 for details
+        company: U.S. Army | Fort Benning, GA
+        details: |
+          - Performed as a member of a fire team during drills and live combat, learned and used different combat systems
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C
+        level: 90%
+
+      - name: C++
+        level: 80%
+
+      - name: Python
+        level: 80%
+
+      - name: C#
+        level: 65%
+
+      - name: Rust
+        level: 30%
+
+      - name: CAPL
+        level: 80%
+
+education:
+    title: Education
+    info:
+      - degree: BSc in Electrical Engineering
+        university: University of Michigan
+        time: 2008 - 2011
+      - degree: Associates in Engineering
+        university: Schoolcraft College
+        time: 2007 - 2008
