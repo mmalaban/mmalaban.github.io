@@ -279,7 +279,7 @@ $smoky-white: #f5f5f5;
   }
   .level-bar-inner {
     height: 12px;
-    background: lighten(darkorange, 15%);
+    background: lighten($grey-color-dark, 15%);
   }
 }
 
