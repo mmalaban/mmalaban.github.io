@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to the World!"
 categories: baby mira mira-rose
 author: "mmalaban"
-published: true
+published: false
 ---
 
 <h2 class="post-headings">Welcome, dear baby Mira Rose!</h2>
