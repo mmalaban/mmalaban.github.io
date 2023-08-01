@@ -124,6 +124,9 @@ skills:
       - name: CAPL
         level: 80%
 
+      - name: AUTOSAR (classic)
+        level: 80%
+
 education:
     title: Education
     info:
