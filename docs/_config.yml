@@ -35,8 +35,8 @@ plugins:
 
 # Header navigation
 header_pages:
-  - about.md
   - resume.md
+  # - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
